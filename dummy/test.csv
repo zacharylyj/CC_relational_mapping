@@ -1,0 +1,62 @@
+id,tag,description,links_to
+pc,General Competency,Patient Care,"sc1,sc2,sc3"
+mk,General Competency,Medical Knowledge,"sc4,sc5"
+com,General Competency,Communication,sc6
+prof,General Competency,Professionalism,"sc7,sc8"
+pbl,General Competency,Practice-Based Learning,sc9
+sbp,General Competency,Systems-Based Practice,sc10
+sc1,Sub Competency,SC1: Clinical Assessment,"miloA,miloB"
+sc2,Sub Competency,SC2: Patient Management,"miloB,miloC"
+sc3,Sub Competency,SC3: Procedural Skills,"miloC,miloD"
+sc4,Sub Competency,SC4: Core Scientific Knowledge,"miloD,miloE"
+sc5,Sub Competency,SC5: Applied Clinical Sciences,miloE
+sc6,Sub Competency,SC6: Interpersonal Communication,miloF
+sc7,Sub Competency,SC7: Ethics and Values,miloG
+sc8,Sub Competency,SC8: Professional Responsibilities,miloH
+sc9,Sub Competency,SC9: Self-Improvement,miloI
+sc10,Sub Competency,SC10: Healthcare Systems,miloJ
+miloA,MILO,Milo A: Perform comprehensive physical examinations,"a123,b567"
+miloB,MILO,Milo B: Interpret patient data for diagnosis,"b567,p876"
+miloC,MILO,Milo C: Develop evidence-based treatment plans,"p876,c123"
+miloD,MILO,Milo D: Apply anatomical principles in clinical context,"c123,d998"
+miloE,MILO,Milo E: Evaluate pathophysiological mechanisms,"d998,x786"
+miloF,MILO,Milo F: Demonstrate effective patient communication,y321
+miloG,MILO,Milo G: Apply ethical frameworks to clinical decisions,z456
+miloH,MILO,Milo H: Document patient care according to standards,q789
+miloI,MILO,Milo I: Identify areas for personal improvement,r123
+miloJ,MILO,Milo J: Navigate healthcare resource allocation,s456
+a123,LAILO,A123: Demonstrate cardiovascular examination techniques,ma1
+b567,LAILO,B567: Analyze laboratory results in clinical cases,ma2
+p876,LAILO,P876: Formulate comprehensive care plans,ma3
+c123,LAILO,C123: Identify anatomical structures on imaging,ma4
+d998,LAILO,D998: Explain disease mechanisms at cellular level,ma5
+x786,LAILO,X786: Apply pharmacological principles to therapy,ma6
+y321,LAILO,Y321: Conduct effective patient interviews,ma7
+z456,LAILO,Z456: Resolve ethical dilemmas in case scenarios,ma8
+q789,LAILO,Q789: Complete accurate electronic health records,ma9
+r123,LAILO,R123: Implement feedback from clinical evaluations,ma10
+s456,LAILO,S456: Coordinate interprofessional care teams,ma11
+ma1,Learning Activity,Module/Assessment 1: Cardiovascular Examination Lab,"sba1,osce4"
+ma2,Learning Activity,Module/Assessment 2: Clinical Biochemistry Workshop,"sba7,icagm1"
+ma3,Learning Activity,Module/Assessment 3: Case-Based Treatment Planning,fosce3
+ma4,Learning Activity,Module/Assessment 4: Radiological Anatomy Session,osce2
+ma5,Learning Activity,Module/Assessment 5: Pathophysiology Seminar Series,mcq1
+ma6,Learning Activity,Module/Assessment 6: Pharmacotherapy Case Studies,meq3
+ma7,Learning Activity,Module/Assessment 7: Patient Communication Simulation,osce5
+ma8,Learning Activity,Module/Assessment 8: Ethics Small Group Discussion,seq2
+ma9,Learning Activity,Module/Assessment 9: EHR Documentation Workshop,port1
+ma10,Learning Activity,Module/Assessment 10: Reflective Practice Session,refl1
+ma11,Learning Activity,Module/Assessment 11: Healthcare Systems Symposium,pbl2
+sba1,Assessment Item,SBA1: Single Best Answer Exam - Cardiovascular System,
+sba7,Assessment Item,SBA7: Single Best Answer Exam - Laboratory Interpretation,
+icagm1,Assessment Item,ICA-GM1: Integrated Clinical Assessment - General Medicine,
+osce4,Assessment Item,OSCE4: Objective Structured Clinical Exam - Physical Examination,
+fosce3,Assessment Item,FOSCE3: Formative OSCE - Patient Management,
+osce2,Assessment Item,OSCE2: Objective Structured Clinical Exam - Clinical Skills,
+mcq1,Assessment Item,MCQ1: Multiple Choice Questions - Basic Sciences,
+meq3,Assessment Item,MEQ3: Modified Essay Questions - Clinical Pharmacology,
+osce5,Assessment Item,OSCE5: Objective Structured Clinical Exam - Communication,
+seq2,Assessment Item,SEQ2: Short Essay Questions - Medical Ethics,
+port1,Assessment Item,PORT1: Portfolio Assessment - Documentation,
+refl1,Assessment Item,REFL1: Reflective Writing Assignment,
+pbl2,Assessment Item,PBL2: Problem-Based Learning Assessment,
